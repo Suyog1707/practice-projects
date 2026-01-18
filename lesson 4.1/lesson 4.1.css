@@ -1,0 +1,17 @@
+.switch-on {
+    background: rgb(25, 135, 84);
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+.switch-off {
+    background: rgb(220, 53, 69);
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 40px;
+}
