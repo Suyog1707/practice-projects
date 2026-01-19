@@ -1,0 +1,21 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.button-container {
+    height: 100vh;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    color: white;
+    padding: 5px 15px;
+    background-color: rgb(50, 167, 98);
+    margin-right: 10px;
+    border: 0px;
+}
